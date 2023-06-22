@@ -38,7 +38,7 @@
 
 header {
     background-color: pink;
-    height: 10vh;
+    height: fit-content;
     position: fixed;
     width: 100vw;
 
@@ -344,8 +344,7 @@ font-weight: bolder;
     background: linear-gradient(rgba(232, 201, 201, 0.7), #feecf0), url(images/c.webp);
     background-size: cover;
     background-position: center;
-    height: 50vh;
-    width: 100vw;
+    height:fit-content;
     border: 1px solid rgb(246, 200, 200);
 }
 
