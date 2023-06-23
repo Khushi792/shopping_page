@@ -1,2 +1,2 @@
 # shopping_page
-A Fully responsive shopping site made using HTML and CSS.
+A Fully responsive one page shopping site made using HTML and CSS.
