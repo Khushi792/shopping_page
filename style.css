@@ -5,7 +5,7 @@
 
 .progress {
     background-color: red;
-    height: 0.6vh;
+    height: 0.4vh;
     animation-name: load;
     animation-duration: 0.8s;
     animation-timing-function: ease-in-out;
@@ -131,7 +131,7 @@ nav ul li a:hover {
     background: linear-gradient(rgba(47, 39, 39, 0.2), #f8cbd5), url(images/f.jpeg);
     background-size: cover;
     background-position: center;
- padding-bottom: 60px;
+ padding-bottom: 80px;
  
     height:fit-content;
 }
@@ -322,6 +322,7 @@ font-weight: bolder;
     background-size: cover;
     background-position: center;
     height: fit-content;
+    padding:10px;
 }
 #about h1 {
     padding: 40px;
